@@ -3,4 +3,4 @@
 
 select *
 from {{ ref('shark_tank_details') }}
-where pitchers_average_age = 'MIDDLE'
+where pitchers_average_age = 'Middle'
