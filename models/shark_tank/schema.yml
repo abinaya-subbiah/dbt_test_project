@@ -1,0 +1,17 @@
+
+version: 2
+
+models:
+    - name: shark_tank_details
+      description: "Show all shark tank details"
+    
+    - name: episode_details
+      description: "Show all episode details within a season"
+
+    - name: industry_details
+      description: "Shows all the industry categories"
+
+    - name: pitcher_details
+      description: "Shows pitcher details which are in their middle age"
+
+    
